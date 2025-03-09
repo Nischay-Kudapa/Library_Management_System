@@ -1,4 +1,4 @@
-from lms import *
+from librarymanagement.py import *
 
 # Create an address
 address = Address("123 Street", "CityName", "StateName", "123456", "Country")
